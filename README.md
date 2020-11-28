@@ -14,6 +14,9 @@ Works Windows
 The quick way:
 
 pip install scrapy
-See the install section in the documentation at https://docs.scrapy.org/en/latest/intro/install.html for more details.
+See the install 
+section in the documentation at https://docs.scrapy.org/en/latest/intro/install.html for more details.
 
-Documentation
+# About code
+scraping website 'iris', for getting the title, link product, link image, price, delivery time, finally save it in excel.
+
