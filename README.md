@@ -22,4 +22,4 @@ scraping website 'iris', for getting the title, link product, link image, price,
 - you can use the code in folder "Scraping-iris-using-python-with-bibliotheque-scrapy/spiders/posts_spider.py".
 
 # you can find tutorial of this code in youtub:  
-- https://www.youtube.com/watch?v=bFAc2VExvzo&t=47s
+- https://www.youtube.com/channel/UCBCNzrcYbVvRaXVy4emGMzg
