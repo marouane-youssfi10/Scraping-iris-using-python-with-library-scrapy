@@ -21,3 +21,4 @@ section in the documentation at https://docs.scrapy.org/en/latest/intro/install.
 scraping website 'mymarket', for getting the title, link product, link image, price, delivery time,  product categories, finally save it in excel.
 - you can use the code in folder "Scraping-iris-using-python-with-bibliotheque-scrapy/spiders/posts_spider.py"
 
+# link video off this code in youtub : https://www.youtube.com/watch?v=bFAc2VExvzo&t=47s
